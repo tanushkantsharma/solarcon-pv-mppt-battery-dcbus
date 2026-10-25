@@ -1,0 +1,11 @@
+condition,quantity,datasheet,model,error_pct
+STC,Isc_A,8.21,8.21,-0.0
+STC,Voc_V,32.9,32.9,-0.0
+STC,Vmp_V,26.3,26.275,-0.1
+STC,Imp_A,7.61,7.617,0.09
+STC,Pmax_W,200.0,200.142,0.07
+"NOCT (800 W/m2, 47 C)",Isc_A,6.62,6.624,0.06
+"NOCT (800 W/m2, 47 C)",Voc_V,29.9,29.759,-0.47
+"NOCT (800 W/m2, 47 C)",Vmp_V,23.2,23.474,1.18
+"NOCT (800 W/m2, 47 C)",Imp_A,6.13,6.058,-1.18
+"NOCT (800 W/m2, 47 C)",Pmax_W,142.0,142.195,0.14

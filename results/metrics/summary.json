@@ -1,0 +1,51 @@
+{
+  "pv_parameters": {
+    "module": "Kyocera KC200GT",
+    "a": 1.3,
+    "Rs_ohm": 0.2307688800901805,
+    "Rsh_ohm": 597.3767065785825,
+    "Iph_ref_A": 8.213171554037304,
+    "I0_ref_A": 9.762897797181202e-08,
+    "array": "8s x 3p",
+    "array_rated_W": 4800.0
+  },
+  "tuned_params": {
+    "po": {
+      "step": 4,
+      "period": 0.005
+    },
+    "inc": {
+      "step": 4,
+      "period": 0.005,
+      "eps": 0.0
+    },
+    "dpo": {
+      "step": 4,
+      "period": 0.005
+    },
+    "apo": {
+      "M": 0.1,
+      "dv_min": 1.0,
+      "dv_max": 8.0,
+      "period": 0.005
+    },
+    "apo_scan": {
+      "M": 0.1,
+      "dv_min": 1.0,
+      "dv_max": 8.0,
+      "period": 0.005
+    }
+  },
+  "python": "3.13.17",
+  "A_lossy": {
+    "converter_eff_lossy": 0.9866209042083713,
+    "converter_eff_ideal": 1.0000009765291997,
+    "eta_mppt_lossy": 0.9998925714104921,
+    "iL_ripple_pp_A_analytical": 2.524650371074051,
+    "iL_mean_A": 22.790164025118376,
+    "vdc_ripple_pp_V_analytical": 0.1421915448342585
+  },
+  "total_wall_s": 187.40978979600004,
+  "n_simulations": 100,
+  "sim_seconds_total": 250.2
+}

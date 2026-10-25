@@ -1,0 +1,27 @@
+{
+  "po": {
+    "step": 4,
+    "period": 0.005
+  },
+  "inc": {
+    "step": 4,
+    "period": 0.005,
+    "eps": 0.0
+  },
+  "dpo": {
+    "step": 4,
+    "period": 0.005
+  },
+  "apo": {
+    "M": 0.1,
+    "dv_min": 1.0,
+    "dv_max": 8.0,
+    "period": 0.005
+  },
+  "apo_scan": {
+    "M": 0.1,
+    "dv_min": 1.0,
+    "dv_max": 8.0,
+    "period": 0.005
+  }
+}

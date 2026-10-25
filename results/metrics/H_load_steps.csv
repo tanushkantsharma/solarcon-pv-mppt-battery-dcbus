@@ -1,0 +1,7 @@
+bus_control,step_at_s,load_W,max_dev_V,settle_1V_ms
+with feed-forward,1.0,6000,0.5168973912090564,0.0
+with feed-forward,2.0,500,0.7844969527739636,0.0
+with feed-forward,3.0,3000,0.15903482240634048,0.0
+PI only (no feed-forward),1.0,6000,14.488672540283062,145.49999999999997
+PI only (no feed-forward),2.0,500,20.87189900368088,144.50000000000028
+PI only (no feed-forward),3.0,3000,10.164340474486096,96.50000000000026
